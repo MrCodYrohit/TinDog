@@ -1,3 +1,3 @@
 # TinDog Project
 
-Link[https://mrcodyrohit.github.io/TinDog/]
+Link(https://mrcodyrohit.github.io/TinDog/)
